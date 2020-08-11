@@ -11,7 +11,7 @@ chardet==3.0.4
 click==7.1.1
 click-default-group==1.2.2
 csvs-to-sqlite==1.0
-datasette==0.39
+datasette==0.46
 dateparser==0.7.2
 decorator==4.4.2
 defusedxml==0.6.0
